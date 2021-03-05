@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28f6abfb-a7db-44a5-8846-48e72d4cab2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../../UnityProject/lutfenSonOlsun/Assets/Scripts/AuthManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelPatternList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../IdleGameProject/Assets/Scripts/Mechanics/EarnPerSecond.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FpsDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlockMovementController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../IdleGameProject/Assets/Scripts/Mechanics/ConvertMoney.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../UnityProject/lutfenSonOlsun/Assets/Sfx/SfxControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallSpawnPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BallController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParticleManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Menu Scene/MenuUIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DataReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BlockController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SfxScrpts/SFXDestroyer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../../../../../UnityProject/lutfenSonOlsun/Assets/Scripts/ConnectionCheck.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ParticleController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/Scripts/DotArrayCleaner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameover.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CollectibleManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/FpsDisplay.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerVFX.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BlockManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BossManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerPrefabController.cs" />
+      <option value="$PROJECT_DIR$/Assets/_fx/SfxControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/SfxScrpts/SfxDestroyer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Menu/UIHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InputManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallDirectionPreview.cs" />
+      <option value="$PROJECT_DIR$/Assets/test.cs" />
+      <option value="$PROJECT_DIR$/Assets/test1.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/LevelPatternList.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BallSpawnPoint.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ParticleController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BlockMovementController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Loading Scene/LoadingControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Menu Scene/MenuUIManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Sfx/_fx/SfxDestroyer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Sfx/_fx/SfxControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/SfxScrpts/SfxControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/SfxScrpts/SFXDestroyer.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BlockSpawner.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/ParticleManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InputData.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/DataReceiver.cs" />
+      <option value="$PROJECT_DIR$/Assets/SfxScrpts/SFXControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BlockController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1nkaxiJUJyb3Zm0fbwS5EDC5UAs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28f6abfb-a7db-44a5-8846-48e72d4cab2b" name="Default Changelist" comment="" />
+      <created>1611936810344</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611936810344</updated>
+      <workItem from="1611936832742" duration="108383000" />
+      <workItem from="1612283142690" duration="166000" />
+      <workItem from="1612963500855" duration="19928000" />
+      <workItem from="1613569385767" duration="4366000" />
+      <workItem from="1613903482444" duration="8361000" />
+      <workItem from="1613940126536" duration="5469000" />
+      <workItem from="1614005206889" duration="643000" />
+      <workItem from="1614010331556" duration="13866000" />
+      <workItem from="1614270553675" duration="20347000" />
+      <workItem from="1614327614556" duration="3801000" />
+      <workItem from="1614451284640" duration="145000" />
+      <workItem from="1614451467275" duration="18000" />
+      <workItem from="1614451534250" duration="20797000" />
+      <workItem from="1614541971906" duration="7530000" />
+      <workItem from="1614690515151" duration="13096000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

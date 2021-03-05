@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5600600991376917530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5600600991376917528}
+  - component: {fileID: 5600600991376917531}
+  m_Layer: 2
+  m_Name: Sfx Control Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5600600991376917528
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5600600991376917530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5600600991376917531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5600600991376917530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b28bde3356dec4f8c74f6df9dc9b08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxPrefab: {fileID: 4290374718340475608, guid: 13f93a659fb4d2c439966900ea2ce2bc,
+    type: 3}
+  sfxs:
+  - name: Music
+    type: 0
+    audioClip:
+    - {fileID: 8300000, guid: eab30b76852d5464cbe934e8d0c6fdc4, type: 3}
+    loop: 0
+    pitch: 0
+    check: 0
+    pitchMin: 0
+    pitchMax: 0
+    volume: 0.87
+    audioSourceLast: {fileID: 0}
+  - name: Hit
+    type: 0
+    audioClip:
+    - {fileID: 8300000, guid: eb44885ca24a61e428fe33ae3c9f1b41, type: 3}
+    loop: 0
+    pitch: 0
+    check: 0
+    pitchMin: 0
+    pitchMax: 0
+    volume: 1
+    audioSourceLast: {fileID: 0}
+  - name: Money
+    type: 0
+    audioClip:
+    - {fileID: 8300000, guid: 15454d63c3c60cc4abfb1dcf94b0fd60, type: 3}
+    loop: 0
+    pitch: 0
+    check: 0
+    pitchMin: 0
+    pitchMax: 0
+    volume: 1
+    audioSourceLast: {fileID: 0}
+  - name: LevelUp
+    type: 0
+    audioClip:
+    - {fileID: 8300000, guid: e898e834f190c144fa1072579f498fd0, type: 3}
+    loop: 0
+    pitch: 0
+    check: 0
+    pitchMin: 0
+    pitchMax: 0
+    volume: 1
+    audioSourceLast: {fileID: 0}
+  - name: Bomb
+    type: 0
+    audioClip:
+    - {fileID: 8300000, guid: b3e0e09cf2641494491f957d0a3ad483, type: 3}
+    loop: 0
+    pitch: 0
+    check: 0
+    pitchMin: 0
+    pitchMax: 0
+    volume: 1
+    audioSourceLast: {fileID: 0}

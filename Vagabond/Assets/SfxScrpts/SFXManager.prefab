@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7367468436851271328
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8242292508218248490}
+  - component: {fileID: 5590926327381132267}
+  - component: {fileID: 747755055655083065}
+  m_Layer: 0
+  m_Name: SFXManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8242292508218248490
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7367468436851271328}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.4322677, y: 0.941329, z: 1479.1774}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5590926327381132267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7367468436851271328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82b28bde3356dec4f8c74f6df9dc9b08, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sfxPrefab: {fileID: 4290374718340475608, guid: 13f93a659fb4d2c439966900ea2ce2bc,
+    type: 3}
+  sfxs:
+  - name: Home Music
+    type: 1
+    audioClip:
+    - {fileID: 0}
+    loop: 1
+    pitch: 0
+    check: 1
+    pitchMin: 1
+    pitchMax: 1
+    volume: 0.6
+    audioSourceLast: {fileID: 0}
+  - name: Hit
+    type: 0
+    audioClip:
+    - {fileID: 0}
+    loop: 1
+    pitch: 0
+    check: 1
+    pitchMin: 1
+    pitchMax: 1
+    volume: 1
+    audioSourceLast: {fileID: 0}
+  - name: Level Up
+    type: 0
+    audioClip:
+    - {fileID: 8300000, guid: eb44885ca24a61e428fe33ae3c9f1b41, type: 3}
+    loop: 0
+    pitch: 0
+    check: 0
+    pitchMin: 1
+    pitchMax: 1.1
+    volume: 0.7
+    audioSourceLast: {fileID: 0}
+  - name: Money
+    type: 0
+    audioClip:
+    - {fileID: 8300000, guid: eb44885ca24a61e428fe33ae3c9f1b41, type: 3}
+    loop: 0
+    pitch: 0
+    check: 0
+    pitchMin: 1
+    pitchMax: 1.1
+    volume: 0.7
+    audioSourceLast: {fileID: 0}
+  - name: Bomb
+    type: 0
+    audioClip:
+    - {fileID: 8300000, guid: eb44885ca24a61e428fe33ae3c9f1b41, type: 3}
+    loop: 0
+    pitch: 0
+    check: 0
+    pitchMin: 1
+    pitchMax: 1.1
+    volume: 0.7
+    audioSourceLast: {fileID: 0}
+--- !u!114 &747755055655083065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7367468436851271328}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c256dcc30fe69b0418143a02b94a30d8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
